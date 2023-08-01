@@ -9,13 +9,18 @@
 * Put data into data frames using Python
 
 ## Built with
-* [![Next][ python.org]][Next-https://www.python.org/]
-
 
 * ![alt text]( https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Light.svg)
 * ![alt text]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7005ZNWTutANhnon4wy-ji_MI6zvoR4VEvrVH7IsjMw&s)
 * ![alt text]( https://brockdsl.github.io/Intro_to_Tableau_Workshop/tabimg.jpg)
 * ![alt text]( https://d33wubrfki0l68.cloudfront.net/d3ca5a4bd42d86926f08ee7bc5e3f73339045edf/716e5/images/glossary/pyshark.jpg )
+* ![alt text]( https://dataanalyticsedge.com/wp-content/uploads/2019/11/images.png )
+* ![alt text]( https://scipy-lectures.org/_images/scikit-learn-logo.png )
+* ![alt text]( https://d33wubrfki0l68.cloudfront.net/e33fd6f372aa5d51e7b0de4bd763bd983251881e/4b0f4/blog/customising-matplotlib/matplot_title_logo.png )
+
+
+
+
 
 
 
