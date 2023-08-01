@@ -9,7 +9,7 @@
 * Put data into data frames using Python
 
 ## Built with
-* [![Next][ python.org]][Next-url]
+* [![Next][ python.org]][Next-https://www.python.org/]
 
 
 * ![alt text]( https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc)
