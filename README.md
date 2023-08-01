@@ -9,9 +9,12 @@
 * Put data into data frames using Python
 
 ## Built with
-* ![alt text]( https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc)
-* ![alt text](https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz)
-* ![alt text]( https://matterly.io/wp-content/uploads/2022/11/Tableau-Emblem.png)
+* [![Next][ python.org]][Next-https://www.python.org/]
+
+
+* ![alt text]( https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Light.svg)
+* ![alt text]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7005ZNWTutANhnon4wy-ji_MI6zvoR4VEvrVH7IsjMw&s)
+* ![alt text]( https://brockdsl.github.io/Intro_to_Tableau_Workshop/tabimg.jpg)
 * ![alt text]( https://d33wubrfki0l68.cloudfront.net/d3ca5a4bd42d86926f08ee7bc5e3f73339045edf/716e5/images/glossary/pyshark.jpg )
 
 
