@@ -34,11 +34,17 @@
 * Install https://matplotlib.org/stable/users/installing/index.html
 
 
+## Resources
 
+*  Original data source https://www.kaggle.com/datasets/mirzahasnine/heart-disease-dataset
 
+## Credits
 
-
-
+* Cory Scarnecchia
+* David Esposito
+* John Kelly
+* Sean Guzman 
+* Sincere Estrada
 
 
 
