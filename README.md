@@ -32,14 +32,14 @@
 * Install Pyspark  https://spark.apache.org/docs/latest/api/python/getting_started/install.html
 * Install scikit-learn https://scikit-learn.org/0.16/install.html#:~:text=Download%20the%20source%20package%20from,cd%20into%20the%20source%20directory.&text=or%20alternatively%20(also%20from%20within,pip%20install%20.&text=Packages%20installed%20with%20the%20python,nor%20upgraded%20by%20pip%20later.
 * Install https://matplotlib.org/stable/users/installing/index.html
-
-
+## Tableau Workbook
+*https://public.tableau.com/app/profile/david.esposito/viz/HeartDiseaseData_16911128330080/RiskFactorsandGender?publish=yes
 ## Resources
 
 *  Original data source https://www.kaggle.com/datasets/mirzahasnine/heart-disease-dataset
 
-## Credits
 
+## Credits
 * Cory Scarnecchia
 * David Esposito
 * John Kelly
