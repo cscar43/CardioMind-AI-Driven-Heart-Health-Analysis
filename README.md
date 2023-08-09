@@ -38,7 +38,7 @@
 
 *  Original data source https://www.kaggle.com/datasets/mirzahasnine/heart-disease-dataset
 ## Google Presentation
-*https://docs.google.com/presentation/d/1v5LiOh6CRsaVXui-7A4JTpwGXQRSuM59EQOoNpB1LE8/edit?usp=sharing 
+* https://docs.google.com/presentation/d/1v5LiOh6CRsaVXui-7A4JTpwGXQRSuM59EQOoNpB1LE8/edit?usp=sharing 
 
 ## Credits
 * Cory Scarnecchia
